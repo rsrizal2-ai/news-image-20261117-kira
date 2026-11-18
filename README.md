@@ -1,7 +1,8 @@
 # Tuesday, 17 November 2026 — The World in One Day
 
 [![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![rank](https://make.fun/badge/news-image-20261117/rsrizal2-ai/news-image-20261117-kira/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/rsrizal2-ai/news-image-20261117-kira/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/rsrizal2-ai/news-image-20261117-kira/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 One image summing up the world news of **Tuesday, 17 November 2026**: a
 newspaper-style poster with the day's six most consequential stories —
